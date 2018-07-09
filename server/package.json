@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "jest": "jest --coverage --testPathPattern=\\.*\\.test\\.js\\",
+    "test": "jest --coverage --testPathPattern=\\.*\\.test\\.js\\",
     "lint": "./node_modules/.bin/eslint --color --fix routes app.js server.js"
   },
   "author": "William Penagos",
