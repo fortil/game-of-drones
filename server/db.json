@@ -1,0 +1,674 @@
+{
+  "users": [
+    {
+      "id": "rJGCt1e77",
+      "name": "William player1",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "S1eMAYJxXm",
+      "name": "William player2",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "HJloeZgXX",
+      "name": "rJGCt1e77",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "SJxxil-lQQ",
+      "name": "S1eMAYJxXm",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "rkW7CrxQX",
+      "name": "William player3",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "SkixkLlm7",
+      "name": "William player5",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "SJitkLe7X",
+      "name": "William player6",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "Hy_QlUeQQ",
+      "name": "Albeiro player1",
+      "wons": 0,
+      "losts": 3
+    },
+    {
+      "id": "B1l_XxLgQ7",
+      "name": "Albeiro player2",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "ryhQW8eXX",
+      "name": "Albeiro 2",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "ryl2mbIe7m",
+      "name": "Albeiro 4",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "HywOWLemm",
+      "name": "AWWW",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "H1lDuWUemm",
+      "name": "WWW",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "BkcfGIlXm",
+      "name": "A",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "B1e9zfUgmm",
+      "name": "B",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "BkfDMUgm7",
+      "name": "C",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "Hy3x7LxX7",
+      "name": "T",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "r1g3em8l7Q",
+      "name": "Z",
+      "wons": 0,
+      "losts": 0
+    },
+    {
+      "id": "ByavEUe7X",
+      "name": "G",
+      "wons": 0,
+      "losts": 1
+    },
+    {
+      "id": "Hye6DEIeQX",
+      "name": "H",
+      "wons": 1,
+      "losts": 0
+    }
+  ],
+  "matches": [
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "BkbfRF1emQ"
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "B1ZdnygQ7"
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "Sk6a_lxXX"
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "SJznjeemm"
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "Sk64gZg7X"
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "BJFUEGlm7"
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "SyILdNxXm"
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "S1eMAYJxXm"
+      ],
+      "id": "S1eltEgmX",
+      "rounds": [
+        {
+          "winner": "rJGCt1e77",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "S1eMAYJxXm",
+          "loser": "rJGCt1e77",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "tie1": "rJGCt1e77",
+          "tie2": "S1eMAYJxXm",
+          "hand1": 2,
+          "hand2": 2
+        },
+        {
+          "winner": "S1eMAYJxXm",
+          "loser": "rJGCt1e77",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "S1eMAYJxXm",
+          "loser": "rJGCt1e77",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "rJGCt1e77",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "rJGCt1e77",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "rJGCt1e77",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        }
+      ]
+    },
+    {
+      "users": [
+        "rJGCt1e77",
+        "rkW7CrxQX"
+      ],
+      "id": "HygWQABl77",
+      "rounds": [
+        {
+          "winner": "rJGCt1e77",
+          "loser": "rkW7CrxQX",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "rJGCt1e77",
+          "loser": "rkW7CrxQX",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "rJGCt1e77",
+          "loser": "rkW7CrxQX",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "rJGCt1e77",
+          "loser": "rkW7CrxQX",
+          "winnerHand": 1,
+          "loserHand": 2
+        }
+      ]
+    },
+    {
+      "users": [
+        "SkixkLlm7",
+        "S1eMAYJxXm"
+      ],
+      "id": "Hyeolk8emQ",
+      "rounds": [
+        {
+          "winner": "SkixkLlm7",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "SkixkLlm7",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "SkixkLlm7",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "SkixkLlm7",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        }
+      ]
+    },
+    {
+      "users": [
+        "SJitkLe7X",
+        "S1eMAYJxXm"
+      ],
+      "id": "rkgjKkLxQ7",
+      "rounds": [
+        {
+          "winner": "SJitkLe7X",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "SJitkLe7X",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "SJitkLe7X",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "SJitkLe7X",
+          "loser": "S1eMAYJxXm",
+          "winnerHand": 1,
+          "loserHand": 2
+        }
+      ]
+    },
+    {
+      "users": [
+        "Hy_QlUeQQ",
+        "B1l_XxLgQ7"
+      ],
+      "id": "HkbOQgUeQm",
+      "rounds": [
+        {
+          "winner": "Hy_QlUeQQ",
+          "loser": "B1l_XxLgQ7",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "Hy_QlUeQQ",
+          "loser": "B1l_XxLgQ7",
+          "winnerHand": 1,
+          "loserHand": 2
+        }
+      ]
+    },
+    {
+      "users": [
+        "Hy_QlUeQQ",
+        "B1l_XxLgQ7"
+      ],
+      "id": "ByFBgLg7X",
+      "rounds": [
+        {
+          "winner": "B1l_XxLgQ7",
+          "loser": "Hy_QlUeQQ",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "B1l_XxLgQ7",
+          "loser": "Hy_QlUeQQ",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "B1l_XxLgQ7",
+          "loser": "Hy_QlUeQQ",
+          "winnerHand": 3,
+          "loserHand": 1
+        }
+      ]
+    },
+    {
+      "users": [
+        "ryhQW8eXX",
+        "ryl2mbIe7m"
+      ],
+      "id": "r1b3mb8lmQ",
+      "rounds": [
+        {
+          "winner": "ryhQW8eXX",
+          "loser": "ryl2mbIe7m",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "ryhQW8eXX",
+          "loser": "ryl2mbIe7m",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "ryhQW8eXX",
+          "loser": "ryl2mbIe7m",
+          "winnerHand": 1,
+          "loserHand": 2
+        }
+      ]
+    },
+    {
+      "users": [
+        "HywOWLemm",
+        "H1lDuWUemm"
+      ],
+      "id": "By-wuW8xm7",
+      "rounds": [
+        {
+          "winner": "H1lDuWUemm",
+          "loser": "HywOWLemm",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "H1lDuWUemm",
+          "loser": "HywOWLemm",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "H1lDuWUemm",
+          "loser": "HywOWLemm",
+          "winnerHand": 3,
+          "loserHand": 1
+        }
+      ]
+    },
+    {
+      "users": [
+        "BkcfGIlXm",
+        "B1e9zfUgmm"
+      ],
+      "id": "SkWqzfUlQX"
+    },
+    {
+      "users": [
+        "B1e9zfUgmm",
+        "BkfDMUgm7"
+      ],
+      "id": "S1xzwf8lXm",
+      "rounds": [
+        {
+          "winner": "BkfDMUgm7",
+          "loser": "B1e9zfUgmm",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "B1e9zfUgmm",
+          "loser": "BkfDMUgm7",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "BkfDMUgm7",
+          "loser": "B1e9zfUgmm",
+          "winnerHand": 3,
+          "loserHand": 1
+        }
+      ]
+    },
+    {
+      "users": [
+        "Hy3x7LxX7",
+        "r1g3em8l7Q"
+      ],
+      "id": "H1W3xQUgQ7",
+      "rounds": [
+        {
+          "winner": "Hy3x7LxX7",
+          "loser": "r1g3em8l7Q",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "r1g3em8l7Q",
+          "loser": "Hy3x7LxX7",
+          "winnerHand": 2,
+          "loserHand": 3
+        },
+        {
+          "tie1": "Hy3x7LxX7",
+          "tie2": "r1g3em8l7Q",
+          "hand1": 1,
+          "hand2": 1
+        },
+        {
+          "winner": "Hy3x7LxX7",
+          "loser": "r1g3em8l7Q",
+          "winnerHand": 2,
+          "loserHand": 3
+        }
+      ]
+    },
+    {
+      "users": [
+        "BkcfGIlXm",
+        "B1e9zfUgmm"
+      ],
+      "id": "SJAH7LemX",
+      "rounds": [
+        {
+          "winner": "BkcfGIlXm",
+          "loser": "B1e9zfUgmm",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "BkcfGIlXm",
+          "loser": "B1e9zfUgmm",
+          "winnerHand": 2,
+          "loserHand": 3
+        },
+        {
+          "winner": "B1e9zfUgmm",
+          "loser": "BkcfGIlXm",
+          "winnerHand": 3,
+          "loserHand": 1
+        }
+      ]
+    },
+    {
+      "users": [
+        "Hy_QlUeQQ",
+        "B1l_XxLgQ7"
+      ],
+      "id": "SyEqmUeQQ",
+      "winner": "",
+      "loser": "Hy_QlUeQQ"
+    },
+    {
+      "users": [
+        "Hy_QlUeQQ",
+        "B1l_XxLgQ7"
+      ],
+      "id": "S1MJE8xQX",
+      "winner": "",
+      "loser": "Hy_QlUeQQ"
+    },
+    {
+      "users": [
+        "Hy_QlUeQQ",
+        "B1l_XxLgQ7"
+      ],
+      "id": "Hk31NIlXQ",
+      "rounds": [
+        {
+          "winner": "B1l_XxLgQ7",
+          "loser": "Hy_QlUeQQ",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "B1l_XxLgQ7",
+          "loser": "Hy_QlUeQQ",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "B1l_XxLgQ7",
+          "loser": "Hy_QlUeQQ",
+          "winnerHand": 3,
+          "loserHand": 1
+        }
+      ]
+    },
+    {
+      "users": [
+        "ByavEUe7X",
+        "Hye6DEIeQX"
+      ],
+      "id": "HJZTDVLxXX",
+      "rounds": [
+        {
+          "winner": "Hye6DEIeQX",
+          "loser": "ByavEUe7X",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "Hye6DEIeQX",
+          "loser": "ByavEUe7X",
+          "winnerHand": 3,
+          "loserHand": 1
+        },
+        {
+          "winner": "Hye6DEIeQX",
+          "loser": "ByavEUe7X",
+          "winnerHand": 3,
+          "loserHand": 1
+        }
+      ],
+      "winner": "Hye6DEIeQX",
+      "loser": "ByavEUe7X"
+    },
+    {
+      "users": [
+        "ByavEUe7X",
+        "Hye6DEIeQX"
+      ],
+      "id": "HyhJuLlQX",
+      "rounds": [
+        {
+          "winner": "ByavEUe7X",
+          "loser": "Hye6DEIeQX",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "Hye6DEIeQX",
+          "loser": "ByavEUe7X",
+          "winnerHand": 2,
+          "loserHand": 3
+        },
+        {
+          "winner": "Hye6DEIeQX",
+          "loser": "ByavEUe7X",
+          "winnerHand": 3,
+          "loserHand": 1
+        }
+      ]
+    },
+    {
+      "users": [
+        "Hy_QlUeQQ",
+        "B1l_XxLgQ7"
+      ],
+      "id": "r1YwO8xXm",
+      "rounds": [
+        {
+          "winner": "Hy_QlUeQQ",
+          "loser": "B1l_XxLgQ7",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "Hy_QlUeQQ",
+          "loser": "B1l_XxLgQ7",
+          "winnerHand": 1,
+          "loserHand": 2
+        },
+        {
+          "winner": "Hy_QlUeQQ",
+          "loser": "B1l_XxLgQ7",
+          "winnerHand": 2,
+          "loserHand": 3
+        }
+      ],
+      "winner": "Albeiro player1",
+      "loser": "Hy_QlUeQQ"
+    }
+  ],
+  "hands": [
+    {
+      "name": "Paper",
+      "beatTo": 2,
+      "id": 1
+    },
+    {
+      "name": "Rock",
+      "beatTo": 3,
+      "id": 2
+    },
+    {
+      "name": "Scissors",
+      "beatTo": 1,
+      "id": 3
+    }
+  ]
+}
